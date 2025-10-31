@@ -76,6 +76,6 @@ Como o laboratório prático não foi realizado, os próximos passos recomendado
 *   [Guia Completo para Markdown no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ---
-**Desenvolvido com o auxílio de Manus AI para a documentação técnica.**
+**Desenvolvido com muito amor e dedicação.**
 **Autor:** [Marcio Gil](https://github.com/MarcioGil)
 **Data:** Outubro de 2025
