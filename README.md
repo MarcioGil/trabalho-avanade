@@ -41,6 +41,12 @@ O Language Studio simplifica a aplicação de complexas tarefas de Processamento
 
 ## 📝 Documentação Técnica e Anotações
 
+Para demonstrar a aplicação prática dos conceitos, um **Estudo de Caso Conceitual** foi incluído no arquivo `NOTES.md`, utilizando o projeto pessoal do desenvolvedor ("Mãe Conecta") como dado de entrada para simular a análise no Azure AI Language Studio.
+
+O arquivo `SAMPLE_TEXT_LanguageStudio.txt` contém o texto de entrada para essa simulação.
+
+| Arquivo/Pasta | Descrição | Status |
+
 Para cumprir o objetivo de documentar a experiência, foram criados os seguintes artefatos:
 
 | Arquivo/Pasta | Descrição | Status |
@@ -48,6 +54,7 @@ Para cumprir o objetivo de documentar a experiência, foram criados os seguintes
 | `README.md` | Este arquivo, contendo a descrição do desafio, objetivos, ferramentas e insights. | **Concluído** |
 | `NOTES.md` | Anotações detalhadas sobre os passos lógicos e configurações dos laboratórios. | **Concluído** |
 | `images/` | Pasta reservada para capturas de tela relevantes da prática (simuladas ou reais). | **Pronto para Receber Imagens** |
+| `SAMPLE_TEXT_LanguageStudio.txt` | Arquivo de texto de exemplo (projeto "Mãe Conecta") utilizado para simular a entrada de dados no Language Studio. | **Concluído** |
 
 ---
 

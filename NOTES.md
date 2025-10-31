@@ -82,3 +82,32 @@ trabalho-avanade/
 └── images/             # Pasta para capturas de tela e evidências visuais.
     └── placeholder.png # Arquivo de exemplo para simular a presença de imagens.
 ```
+
+## 4. Estudo de Caso Conceitual: Análise do "Mãe Conecta"
+
+O arquivo `SAMPLE_TEXT_LanguageStudio.txt` foi incluído no repositório para simular um dado de entrada real para o Azure AI Language Studio. Este estudo de caso conceitual demonstra como as funcionalidades do Language Studio seriam aplicadas a este texto, que é uma descrição de projeto.
+
+### 4.1. Análise de Sentimento e Mineração de Opinião
+
+O texto, sendo uma descrição de projeto, apresenta um **sentimento predominantemente Positivo** e **Neutro**, com foco em proatividade e solução de problemas.
+
+| Aspecto Analisado | Sentimento Esperado | Justificativa |
+| :--- | :--- | :--- |
+| **Geral do Texto** | Positivo (Score alto) | Uso de palavras como "revolucionária", "empoderamento", "suporte real", "excelente" e "qualidade de Código". |
+| **Mineração de Opinião** | Positivo | Identificação de aspectos como "Qualidade de Código", "Performance Otimizada", "Segurança Enterprise" e "Acessibilidade Real". |
+| **Mineração de Opinião** | Neutro | Seções como "Roadmap de Desenvolvimento" e "Estimativas de Impacto Social" são factuais e não carregam forte polaridade emocional. |
+
+### 4.2. Extração de Entidades Nomeadas (NER)
+
+A aplicação do NER no texto resultaria na identificação e categorização das seguintes entidades, essenciais para indexação e busca:
+
+| Tipo de Entidade | Exemplos Extraídos |
+| :--- | :--- |
+| **Organização** | Mãe Conecta, Avanade, WhatsApp, Next.js, OpenAI, PostgreSQL |
+| **Pessoa** | Marcio Gil, Maria Silva, João (TEA) |
+| **Local** | São Paulo, Brasil |
+| **Produto/Serviço** | PWA, Assistente Clara, GraphQL, TypeScript, LGPD |
+| **Data/Tempo** | 15 de Outubro de 2025, 24/7, primeiro ano |
+| **Quantidade** | 2.3 milhões, 89%, 67%, 78%, 96/100, 1.2s, 2.1s, 487KB |
+
+Este exercício conceitual valida o entendimento prático de como os serviços de IA do Azure transformam texto não estruturado em dados acionáveis.
